@@ -1,0 +1,8 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/runkids/skillshare/main/schemas/registry.schema.json
+skills:
+    - name: notebooklm
+      source: github.com/sickn33/antigravity-awesome-skills/skills/notebooklm
+    - name: skillshare
+      source: github.com/runkids/skillshare/skills/skillshare
+    - name: file_organizer
+      source: github.com/openclaw/skills/skills/lkz4203/file-organizer

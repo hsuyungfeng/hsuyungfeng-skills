@@ -120,15 +120,15 @@ Even though we use `user_data_dir`, we **still need `state.json`** because:
 
 ## Code References
 
-**Setup:** `scripts/auth_manager.py:94-120`
+**Setup:** `scripts/auth_manager.py` (lines 94-120)
 - Lines 100-113: Launch persistent context with `channel="chrome"`
 - Line 167: Save to `state.json` via `context.storage_state()`
 
-**Runtime:** `scripts/ask_question.py:77-118`
+**Runtime:** `scripts/ask_question.py` (lines 77-118)
 - Lines 86-99: Launch persistent context
 - Lines 101-118: Manual cookie injection workaround
 
-**Validation:** `scripts/auth_manager.py:236-298`
+**Validation:** `scripts/auth_manager.py` (lines 236-298)
 - Lines 262-275: Launch persistent context
 - Lines 277-287: Manual cookie injection for validation
 

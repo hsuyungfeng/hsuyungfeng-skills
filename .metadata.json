@@ -13,31 +13,7 @@
       "repo_url": "https://github.com/boisenoise/skills-collections.git",
       "subdir": "skills/antigravity-notebooklm",
       "version": "c672b802",
-      "tree_hash": "83d5ccd3c4859ecd78e7eb479bc9336778feed1a",
-      "file_hashes": {
-        ".gitignore": "sha256:a36cd64c569dcc96ce1c63745f2b371bde906a2c03cdf89ccbf23e31a3239d8d",
-        "AUTHENTICATION.md": "sha256:2b1dbabbe732d011203debf38ed4af41bfb518d30c43bece928dfd45daa6e350",
-        "CHANGELOG.md": "sha256:04c7d84879cd07d7ac2012fb190ea3587bf91515e1af7b8a57ea00a11ddf03c2",
-        "LICENSE": "sha256:0ad77d6e05eea79c29fbadce21fb7ed7aad883acde73f4a2c5fef77c9536cd07",
-        "README.md": "sha256:eb944c6fa9b0b8dcc1a56e8bbaf9949d4cc2b540fd08651df9618233be135dce",
-        "SKILL.md": "sha256:ef2a140e11d244926f9927ee37d65125545b8bb97e8b6485467f3f110667b1d4",
-        "images/example_notebookchat.png": "sha256:c31d39e839c4326fd7a492d1d9ca076512ec81765addb5266ad1e4a35b15ad8b",
-        "references/api_reference.md": "sha256:4c3c97e00837af9e13107406744c770f7277205c8c0a49f047dbfe00df52a172",
-        "references/troubleshooting.md": "sha256:b32709f82c66564ed5c1948f37f80a7d7b3f49a250e10ffb37e579733a4a0b45",
-        "references/usage_patterns.md": "sha256:72f4b5e35da1362b57c308759a5f51ec2f37393d7bddd0cf2850dec403345833",
-        "requirements.txt": "sha256:bf3751b25ad4a9f60bb211fbf595a1b0ac560aa52d0c40daae39398ef4e78035",
-        "scripts/__init__.py": "sha256:b8ccc9d7d23f336fb570f946bd015367a73cc27d5eef7f5fc2eb74f1503a9e46",
-        "scripts/ask_question.py": "sha256:5d77eeaa99503a879db610de20fdb7d9de1e99b14ed56e1e2cd66b0607ecdd3f",
-        "scripts/auth_manager.py": "sha256:ec239f5c6100ed4ff7c93952a8ca555173a0ef6b4072ed3f2af26c00a30093d5",
-        "scripts/browser_session.py": "sha256:4dffa8a3f3856f1bccb7096bb068fd13a74b8da0ad7accdd808d866b1d9898e4",
-        "scripts/browser_utils.py": "sha256:900fa5b39673a058217905a2a266a30fa793c3ee0bb90ad316e8d0dd132ff0c3",
-        "scripts/cleanup_manager.py": "sha256:0a85a8d0164eb3ae7aa15356af814a28717cfc1000a43f0291a2a1946401d7e0",
-        "scripts/config.py": "sha256:2ba57f8428e2a9b840101335a959e1a2b843636a44975143c223fd037e9081ec",
-        "scripts/input_safety.py": "sha256:ac82d9670447c127eacbc07506bae02ce18332e30e64f0637e0382720f3aa6d2",
-        "scripts/notebook_manager.py": "sha256:bd3f54e65b53e5aec5008764469bcb6f6c1e7201c42b3139aa8bfc07edfe862b",
-        "scripts/run.py": "sha256:351df107ef3b9b2eba7c743319cacddd1b34fbc48a06c486b71318a68d063851",
-        "scripts/setup_environment.py": "sha256:895c9055577e8e0bad8801681ad9becd9ff6b6bb72107b6b359c1cf8512f0ac0"
-      }
+      "tree_hash": "83d5ccd3c4859ecd78e7eb479bc9336778feed1a"
     },
     "skillshare": {
       "source": "github.com/runkids/skillshare/skills/skillshare",

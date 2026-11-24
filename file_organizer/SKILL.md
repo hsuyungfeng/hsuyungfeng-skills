@@ -8,5 +8,5 @@ description: Automatically organize files in a specified directory by moving the
 Keep your directories tidy.
 
 ## Usage
-Run `scripts/organize.ps1` with the target path.
-Example: `powershell.exe -File scripts/organize.ps1 C:\Users\L\Downloads`
+Run `organize.ps1` (under `scripts`) with the target path.
+Example: `powershell.exe -File scripts\organize.ps1 C:\Users\L\Downloads`
